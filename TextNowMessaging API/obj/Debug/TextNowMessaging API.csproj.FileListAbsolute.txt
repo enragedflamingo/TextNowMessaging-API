@@ -1,0 +1,5 @@
+c:\users\noah\documents\visual studio 2013\Projects\TextNowMessaging API\TextNowMessaging API\bin\Debug\TextNowMessaging API.dll
+c:\users\noah\documents\visual studio 2013\Projects\TextNowMessaging API\TextNowMessaging API\bin\Debug\TextNowMessaging API.pdb
+c:\users\noah\documents\visual studio 2013\Projects\TextNowMessaging API\TextNowMessaging API\obj\Debug\TextNowMessaging API.dll
+c:\users\noah\documents\visual studio 2013\Projects\TextNowMessaging API\TextNowMessaging API\obj\Debug\TextNowMessaging API.pdb
+C:\Users\Noah\Documents\Visual Studio 2013\Projects\TextNowMessaging API\TextNowMessaging API\obj\Debug\TextNowMessaging API.csprojResolveAssemblyReference.cache
